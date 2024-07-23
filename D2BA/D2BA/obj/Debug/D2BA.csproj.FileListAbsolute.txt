@@ -1,0 +1,11 @@
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\bin\Debug\D2BA.exe.config
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\bin\Debug\D2BA.exe
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\bin\Debug\D2BA.pdb
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.csproj.AssemblyReference.cache
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.Form1.resources
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.Properties.Resources.resources
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.csproj.GenerateResource.cache
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.csproj.CoreCompileInputs.cache
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.exe
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.pdb
+C:\Users\MGAGuest\Documents\D2BA\D2BA\D2BA\obj\Debug\D2BA.Form2.resources
